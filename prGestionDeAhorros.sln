@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrGestionDeAhorros", "prGestionDeAhorros\PrGestionDeAhorros.csproj", "{DB502CAE-B3A7-48E4-991F-52A654EF6F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB502CAE-B3A7-48E4-991F-52A654EF6F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB502CAE-B3A7-48E4-991F-52A654EF6F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB502CAE-B3A7-48E4-991F-52A654EF6F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB502CAE-B3A7-48E4-991F-52A654EF6F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF1E65F-C905-4698-AC7B-196AA014CBA9}
+	EndGlobalSection
+EndGlobal
